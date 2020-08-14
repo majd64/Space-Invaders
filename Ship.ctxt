@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=
+comment1.target=Ship()
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ end()
+comment5.params=
+comment5.target=boolean\ isAlive()
+comment6.params=
+comment6.target=java.awt.Rectangle\ getRect()
+comment7.params=g
+comment7.target=void\ drawShip(java.awt.Graphics)
+numComments=8

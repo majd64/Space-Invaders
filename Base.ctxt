@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Base
+comment1.params=sX\ sY\ pieceWidth\ pieceHeight
+comment1.target=Base(int,\ int,\ int,\ int)
+comment2.params=bullet
+comment2.target=boolean\ hit(Bullet)
+comment3.params=g
+comment3.target=void\ drawBase(java.awt.Graphics)
+comment4.params=
+comment4.target=java.util.ArrayList\ getRects()
+numComments=5
